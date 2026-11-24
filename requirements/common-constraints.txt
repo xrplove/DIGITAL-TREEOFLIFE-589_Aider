@@ -489,7 +489,7 @@ scipy==1.17.1
     #   sentence-transformers
 semver==3.0.4
     # via -r requirements/requirements-dev.in
-sentence-transformers==5.3.0
+sentence-transformers==5.6.0
     # via llama-index-embeddings-huggingface
 setuptools==82.0.1
     # via

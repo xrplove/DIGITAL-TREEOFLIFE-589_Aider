@@ -45,7 +45,7 @@ build==1.4.0
     # via pip-tools
 cachetools==7.0.5
     # via streamlit
-certifi==2026.2.25
+certifi==2026.10.18
     # via
     #   httpcore
     #   httpx

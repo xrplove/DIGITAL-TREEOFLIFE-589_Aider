@@ -607,7 +607,7 @@ typing-inspection==0.4.2
     #   pydantic
 tzdata==2025.3
     # via pandas
-urllib3==2.6.3
+urllib3==2.8.0
     # via requests
 uv==0.10.11
     # via -r requirements/requirements-dev.in

@@ -611,7 +611,7 @@ urllib3==2.6.3
     # via requests
 uv==0.10.11
     # via -r requirements/requirements-dev.in
-virtualenv==21.2.0
+virtualenv==21.14.13
     # via pre-commit
 watchfiles==1.1.1
     # via -r requirements/requirements.in
